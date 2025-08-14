@@ -8,7 +8,7 @@ body {
 #hero {
     background-image: url("https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXdmdnNpbmVma2RtOHhlemE0b2Ezc3Y1aXo1bm96NGpncThnd3dsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iicDrNGWxHmDrIni6j/giphy.gif");
     background-size: cover;
-    padding: 10px 0 40px 0;
+    padding: 10px 0 700px 0;
 }
 
 #title {
@@ -17,7 +17,7 @@ body {
 
 .btn {
     padding: 6px 12px;
-    background: white;
+    background: #9C8D95;
     border: none;
     font-family: inherit;
     font-weight: 900;
