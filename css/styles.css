@@ -1,7 +1,6 @@
 body {
     margin: 0;
-    display: flex;
-    justify-content: center;
+    text-align: center;
     font-family: "Orbitron", sans-serif;
     color: #9C8D95;
 }
@@ -18,7 +17,7 @@ body {
 
 .btn {
     padding: 6px 12px;
-    background: #9C8D95;
+    background: white;
     border: none;
     font-family: inherit;
     font-weight: 900;
